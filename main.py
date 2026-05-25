@@ -4,8 +4,8 @@ import sqlite3
 import threading
 import os
 
-TOKEN = "BOT_TOKENINGIZ"
-WEBAPP_URL = "https://YOUR_RENDER_LINK.onrender.com"
+TOKEN = "8630214304:AAG10Qs1tzqWomL7WA-nnDkL0SpdQYdj6no"
+WEBAPP_URL = "https://tap-game-bot-mfx7.onrender.com"
 
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
